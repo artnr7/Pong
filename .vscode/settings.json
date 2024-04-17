@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "time.h": "c",
+        "locale.h": "c",
+        "conio.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c"
+    }
+}
